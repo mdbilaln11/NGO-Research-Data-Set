@@ -41,7 +41,7 @@ The dataset contains information about 10 Indian NGOs, covering the following fi
 
 ## 📁 Project Files
 
-`NGO_Research_Data_InAmigos_Task1.xlsx` – Main dataset containing research information about 10 NGOs.
+`NGO Research Data.xlsx` – Main dataset containing research information about 10 NGOs.
 
 ## 🎓 Internship Details
 
